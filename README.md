@@ -18,4 +18,4 @@ Answer:map() returns a new array after transforming elements, filter() returns a
 Answer:Arrow function: A shorter syntax for writing functions in JavaScript using =>.
 
 **Question 5:What are template literals?**
-Answer: Template literals: JavaScript strings written with backticks that allow embedded variables using ${}.
+Answer: Template literals: JavaScript strings written with backticks that allow embedded variables using ${}
