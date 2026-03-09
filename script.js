@@ -9,7 +9,7 @@ document.getElementById('login-btn').addEventListener('click', () => {
             }
         });
 
-        // Redirect if already logged in
+        // Redirect if already logged in-
         if (localStorage.getItem('loggedIn') === 'true') {
             window.location.href = 'dashboard.html';
         }
