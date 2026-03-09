@@ -1,6 +1,6 @@
-// Mock Issues Data – এখানেই সব ঠিক করা হয়েছে
+// Mock Issues Data – 
 const issues = [
-    // 44টা open issue
+    // 44 open issue
     ...Array.from({ length: 44 }, (_, i) => ({
         id: i + 1,
         title: 'Fix Navigation Menu On Mobile Devices',
@@ -12,7 +12,7 @@ const issues = [
         createdAt: '1/15/2024'
     })),
     
-    // 6টা closed issue
+    // 6 closed issue
     ...Array.from({ length: 6 }, (_, i) => ({
         id: i + 45,
         title: 'Fix Navigation Menu On Mobile Devices',
