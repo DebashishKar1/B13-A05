@@ -8,7 +8,7 @@ Answer: var:function-scoped and re-declarable, let:block-scoped and re-assignabl
 
 **Question 2: What is the spread operator (...)?**
 
-Answer:Spread operator (...): It expands an array or object into individual elements/properties
+Answer:Spread operator (...): It expands an array or object into individual elements/properties.
 
 **Question 3: What is the difference between map(), filter(), and forEach()?**
 
