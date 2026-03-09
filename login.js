@@ -49,7 +49,7 @@ function loadIssues() {
             );
         }
 
-        // এখানেই ম্যাজিক → All ট্যাবে সবসময় 50 দেখাবে
+     
         if (currentTab === 'all') {
             document.getElementById('issue-count').textContent = '50 Issues';
         } else {
